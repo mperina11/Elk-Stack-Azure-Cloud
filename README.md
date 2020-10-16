@@ -52,8 +52,7 @@ Only the Jump Box machine can accept connections from the Internet. Access to th
 -Personal IP
 
 Machines within the network can only be accessed by the Jump Box.
-- _TODO: Which machine did you allow to access your ELK VM? What was its IP address?_
-The DVWA reports its finding from Filebeat to the ELK VM.
+- The DVWA reports its finding from Filebeat to the ELK VM.
 The Jump Box has SSH access to the ELK VM
 
 A summary of the access policies in place can be found in the table below.
